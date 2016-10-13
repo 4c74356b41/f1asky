@@ -1,0 +1,3 @@
+Flask==0.11.1
+pyodbc
+azure-storage==0.32.0
